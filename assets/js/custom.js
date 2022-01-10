@@ -1,11 +1,11 @@
 $(document).ready(function() {
 	$("img[src$='/header.jpg']").on('click', function(e) {
-        window.location.href = '/Index.html';
+        window.location.href = '/';
     });
     $(".col-md-6.col-lg-3 button").on('click', function(e) {
         var href = $(this).find("a").attr('href');
         if (href == "#") {
-            href = "/Index.html";
+            href = "/";
         }
         
         window.location.href = href;
