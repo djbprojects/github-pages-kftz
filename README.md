@@ -1,1 +1,1 @@
-https://djbprojects.github.io/github-pages-kftz/
+http://kftz.djbprojects.com/
